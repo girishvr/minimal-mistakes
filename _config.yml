@@ -1,7 +1,9 @@
 title:            My Blog
 description:      A responsive Jekyll theme large featured images and solid typography.
 #Comment out url when working locally to resolve base urls correctly
-url:              
+url:  http://girishr.com/minimal-mistakes/
+
+
 disqus_shortname:
 
 # Owner/author information
