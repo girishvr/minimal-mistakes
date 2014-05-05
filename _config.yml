@@ -1,27 +1,27 @@
-title:            Minimal Mistakes
+title:            My Blog
 description:      A responsive Jekyll theme large featured images and solid typography.
 #Comment out url when working locally to resolve base urls correctly
-url:              http://mmistakes.github.io/minimal-mistakes
+url:              
 disqus_shortname:
 
 # Owner/author information
 owner:
-  name:           Michael Rose
+  name:           Girish Rathod
   avatar:         bio-photo.jpg
-  bio:            "Just another boring, time traveling, tattooed, designer from Buffalo New York."
+  bio:            "My blog"
   email:          michael@mademistakes.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter:        "mmistakes"
-  github:         "mmistakes"
-  instagram:      "mmistakes"
+  twitter:        "girishvr"
+  github:         "girishvr"
+  instagram:      "girishvr"
   # For Google Authorship https://plus.google.com/authorship
-  google_plus:    "MichaelRoseDesign"
+  google_plus:    ""
 
 # Analytics and webmaster tools stuff goes here
-google_analytics:   UA-2011187-3
-google_verify:      UQj93ERU9zgECodaaXgVpkjrFn9UrDMEzVamacSoQ8Y
+google_analytics:   
+google_verify:      
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:        D81F4C18A6CB3018F64D7C827D953DFD
+bing_verify:       
 
 # Links to include in top navigation
 # For external links add external: true
